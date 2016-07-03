@@ -6,3 +6,4 @@ It uses Expandable Recycler View by Big Nerd Ranch:
 
 http://bignerdranch.github.io/expandable-recycler-view/
 
+In the Wiki there are a couple of images of how it would look
