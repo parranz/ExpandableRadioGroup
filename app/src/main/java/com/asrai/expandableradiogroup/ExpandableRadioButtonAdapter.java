@@ -128,7 +128,7 @@ public class ExpandableRadioButtonAdapter extends ExpandableRecyclerAdapter<Expa
             //Expand and check the selected element
             int parentIndex = mItemList.indexOf(listItem);
 
-            //Since we've collapsed the views, the positions is no longer the one we received, but
+            //Since we've collapsed the views, the position is no longer the one we received, but
             //the actual parent's position
             expandParent(parentIndex);
         }
